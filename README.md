@@ -1,4 +1,5 @@
-Task 2: Stopwatch App
+Task 2: Stopwatch App 
+
 🚀 Internship: Web Development @ Prodigy InfoTech
 📁 Task: Build a stopwatch app with start, pause, reset, and lap time functionality. 
 
